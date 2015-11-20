@@ -1,4 +1,4 @@
-// require('../yourfilename.js')
+decimalConverter= require("../decimal_warmup.js");
 
 describe("Decimal Converter", function() {
 
